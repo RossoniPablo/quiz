@@ -1,0 +1,6 @@
+Nessa versão 2.0 do Quiz.
+A estrutura do HTML  é praticamente a mesma, só foi acrescentado arquivos de audio para acerto, erro e fim de jogo.
+	CSS
+Acrestado as váriaveis para as cores
+	JS
+Estrutura tambem semelhante, acrescentando a seleção dos elementos de áudio como somAcerto, somErro e somAplausos. Incluindo tambem a verificação de duplo click nas questões, algumas mudanças nas funções de bloquear e desbloquear alternativas, e por final efeitos de animação, quando acertar uma questão pisca a tela verdee quando errar de vermelho. Função verificarSeAcertou algumas mudanças referentes a piscar a tela e o reproduzir os sons.
